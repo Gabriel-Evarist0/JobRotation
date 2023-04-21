@@ -1,0 +1,6 @@
+Q: Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+R: A partir do momento em que ambos os veiculos se cruzam, eles se encontram na mesma distancia de ambas as cidades, logo nenhum dos dois esta
+"mais perto" de uma cidade.
+Por estarem em direções opostas mesmo que o carro, vindo de Ribeirão Preto, estando a uma velocidade constante acima da do caminhão e sem os obstaculos
+dos pedágios, seu encontro com o caminhão ainda o faria estar na mesma distancia do mesmo em ambas as cidade.
